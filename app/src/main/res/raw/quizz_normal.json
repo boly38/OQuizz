@@ -1,0 +1,123 @@
+{
+	"questions": [{
+			"id": 11,
+			"question": "L'équipe olympique de quel pays la star d'Internet Michelle Jenneke a-t-elle rejoint en 2016 ?",
+			"options": [
+				"L'Australie",
+				"La Russie",
+				"La Hongrie",
+				"L'Irlande"
+			],
+			"answer": "L'Australie",
+			"anecdote": "En 2010, Michelle Jenneke participa aux Jeux olympiques de la jeunesse à Singapour et termina deuxième du 100 m haies."
+		},
+		{
+			"id": 12,
+			"question": "Combien de courses a-t-on pu suivre en aviron aux Jeux olympiques de 2016 ?",
+			"options": [
+				"14",
+				"22",
+				"31",
+				"7"
+			],
+			"answer": "14",
+			"anecdote": "Le Lagoa Rodrigo de Freitas est une étendue naturelle d'eau située au sud de la ville de Rio de Janeiro."
+		},
+		{
+			"id": 13,
+			"question": "Quel est le nom de la plus grande installation des Jeux olympiques de Rio ?",
+			"options": [
+				"Rio Centro",
+				"Stade Maracana",
+				"Fort de Copacabana",
+				"Marina de Gloria"
+			],
+			"answer": "Stade Maracana",
+			"anecdote": "Le stade a une forme ovale, pour une superficie de 200 000 m2 et une capacité initiale de 220 000 spectateurs."
+		},
+		{
+			"id": 14,
+			"question": "Dans quelle épreuve olympique la star d'Internet Michelle Jenneke a-t-elle concouru à Rio ?",
+			"options": [
+				"Le marteau",
+				"Les haies",
+				"Le disque",
+				"Le javelot"
+			],
+			"answer": "Les haies",
+			"anecdote": "Michelle Jenneke fit sensation par une vidéo, postée sur YouTube, montrant son échauffement avant la course."
+		},
+		{
+			"id": 15,
+			"question": "Combien d'escrimeurs ont concouru pour une médaille d'or aux Jeux olympiques de Rio ?",
+			"options": [
+				"212",
+				"144",
+				"187",
+				"169"
+			],
+			"answer": "212",
+			"anecdote": "L'épreuve d'épée masculine par équipes remplace celle de sabre, et l'épreuve de sabre féminin par équipes remplace celle du fleuret."
+		},
+		{
+			"id": 16,
+			"question": "Laquelle de ces disciplines olympiques s'est déroulée à la réserve de Marapendi en 2016 ?",
+			"options": [
+				"Le football",
+				"Le golf",
+				"La boxe",
+				"Le basket-ball"
+			],
+			"answer": "Le golf",
+			"anecdote": "Le golf est réintégré au programme olympique en 2016 à Rio à la suite de la décision du CIO le 9 octobre 2009."
+		},
+		{
+			"id": 17,
+			"question": "Combien y a-t-il eu de sports au total lors des Jeux olympiques d'été de 2016 ?",
+			"options": [
+				"20",
+				"28",
+				"24",
+				"32"
+			],
+			"answer": "28",
+			"anecdote": "Cinq sports étaient candidats pour leur entrée en lice aux JO : le karaté, le squash, le rugby à sept, le roller et le golf."
+		},
+		{
+			"id": 18,
+			"question": "Quel pays a été le premier à entrer durant la parade des nations de Jeux olympiques de 2016 ?",
+			"options": [
+				"La France",
+				"La Grèce",
+				"Le Brésil",
+				"Les États-Unis"
+			],
+			"answer": "La Grèce",
+			"anecdote": "L'organisation de la cérémonie d'ouverture a été confiée à Fernando Meirelles, Daniela Thomas et Andrucha Waddington."
+		},
+		{
+			"id": 19,
+			"question": "Combien de trous comprenait le format du tournoi de golf des JO de Rio en 2016 ?",
+			"options": [
+				"16",
+				"72",
+				"18",
+				"34"
+			],
+			"answer": "72",
+			"anecdote": "Les épreuves pratiquées en stroke-play furent jouées sur 72 trous (un parcours de 18 trous joués 4 jours consécutifs)."
+		},
+		{
+			"id": 20,
+			"question": "Combien d'équipes se sont affrontées dans le tournoi masculin de basket-ball aux JO de Rio ?",
+			"options": [
+				"20",
+				"12",
+				"24",
+				"16"
+			],
+			"answer": "12",
+			"anecdote": "Il fallut attendre 1936 pour que le basket-ball devienne une épreuve officielle, qui vit le couronnement des États-Unis."
+		}
+	]
+}

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hellow">Salut monde</string>
+    <string name="next">Suivante</string>
+    <string name="score">score</string>
+    <string name="restart">Nouvelle partie</string>
+    <string name="game_ended">Jeu terminé</string>
+    <string name="score_user">Félicitation %1$10s, vous avez fait %2$d points</string>
+    <string name="score_null">Dommage pour cette fois %1$10s, retentez votre chance!</string>
+    <string name="score_share">Super Score OQuizz %1$10s : %2$d points !!!</string>
+    <string name="pseudo">Pseudo</string>
+    <string name="app_welcome">Bienvenue sur OQuizz</string>
+    <string name="share">Partager</string>
+    <string name="difficulty">Difficulté</string>
+    <string name="easy">Facile</string>
+    <string name="medium">Moyen</string>
+    <string name="hard" >Difficile</string>
+    <string name="start">Start</string>
+    <string name="quit">Quitter</string>
+    <string name="loading">Chargement des questions...</string>
+    <string name="username">Nom d\'utilisateur</string>
+    <string name="highscores">Highscores</string>
+    <string name="noscore">Aucun score</string>
+    <string name="bestScore">Meilleur score %1$4d</string>
+
+</resources>

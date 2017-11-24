@@ -1,0 +1,123 @@
+{
+	"questions": [{
+			"id": 21,
+			"question": "En tir à l'arc féminin, quelle équipe nationale a essayé de conserver sa médaille d'or à Rio ?",
+			"options": [
+				"L'Inde",
+				"Le Venezuela",
+				"La Corée du Sud",
+				"Le Mexique"
+			],
+			"answer": "La Corée du Sud",
+			"anecdote": "Absent du programme de 1924 à 1968, le tir à l'arc a été réintroduit à l'occasion des Jeux olympiques d'été de 1972 à Munich."
+		},
+		{
+			"id": 22,
+			"question": "Lequel de ces pays a été banni des Jeux olympiques d'été de 2016 ?",
+			"options": [
+				"La Corée du Sud",
+				"Le Koweït",
+				"L'Allemagne",
+				"Le Chili"
+			],
+			"answer": "Le Koweït",
+			"anecdote": "Les sportifs ont concouru sous la bannière olympique au sein de la délégation des athlètes olympiques indépendants."
+		},
+		{
+			"id": 23,
+			"question": "Combien de bénévoles ont permis le bon déroulement des Jeux olympiques de Rio de 2016 ?",
+			"options": [
+				"30 000",
+				"90 000",
+				"70 000",
+				"50 000"
+			],
+			"answer": "70 000",
+			"anecdote": "Le budget global du comité d'organisation pour Rio 2016, incluant les frais de candidature, s'élève à 7,4 milliards de réals."
+		},
+		{
+			"id": 24,
+			"question": "Quel était le jour de départ de la flamme olympique pour le Brésil en 2016 ?",
+			"options": [
+				"Le 16 juin",
+				"Le 27 avril",
+				"Le 4 juillet",
+				"Le 3 mai"
+			],
+			"answer": "Le 27 avril",
+			"anecdote": "La vasque olympique a été allumée par Vanderlei Cordeiro de Lima après avoir reçu la flamme des mains de Hortencia Marcari."
+		},
+		{
+			"id": 25,
+			"question": "Lequel de ces pays a participé à ses premiers Jeux olympiques à Rio en 2016 ?",
+			"options": [
+				"La Lettonie",
+				"La Lituanie",
+				"Le Kosovo",
+				"La Slovaquie"
+			],
+			"answer": "Le Kosovo",
+			"anecdote": "Le Soudan du Sud et le Kosovo ont porté à 206 le nombre de nations participantes à ces Jeux olympiques d'été."
+		},
+		{
+			"id": 26,
+			"question": "Quel est le nom de la mascotte des Jeux paralympiques de 2016 ?",
+			"options": [
+				"Joe",
+				"Bobby",
+				"Tom",
+				"Fredo"
+			],
+			"answer": "Tom",
+			"anecdote": "Ces Jeux voient l'introduction de deux nouveaux sports au programme paralympique, le canoë et le paratriathlon."
+		},
+		{
+			"id": 27,
+			"question": "En plus du tir à l'arc, quelle discipline olympique a eu lieu au sambodrome en 2016 ?",
+			"options": [
+				"Le marathon",
+				"Le basket-ball",
+				"Le water-polo",
+				"Le tir"
+			],
+			"answer": "Le marathon",
+			"anecdote": "Le sambodrome est une avenue entourée de gradins où se déroule le défilé des meilleures écoles de samba."
+		},
+		{
+			"id": 28,
+			"question": "Combien d'équipes ont constitué les poules du tournoi féminin de football pour les JO de 2016 ?",
+			"options": [
+				"8",
+				"12",
+				"16",
+				"20"
+			],
+			"answer": "12",
+			"anecdote": "En France, en 2015, le football restait, avec le rugby, le sport olympique le moins pratiqué par les femmes."
+		},
+		{
+			"id": 29,
+			"question": "Lequel de ces pays a participé à ses premiers Jeux olympiques d'été en 2016 ?",
+			"options": [
+				"La Mongolie",
+				"LÉgypte",
+				"Taïwan",
+				"Le Soudan du Sud"
+			],
+			"answer": "Le Soudan du Sud",
+			"anecdote": "Le Soudan du Sud est un pays d'Afrique orientale de langue anglaise dont la capitale est Djouba."
+		},
+		{
+			"id": 30,
+			"question": "Laquelle de ces disciplines a été ajoutée pour la voile aux Jeux olympiques de 2016 ?",
+			"options": [
+				"Skiff hommes",
+				"RS:X hommes",
+				"RS:X femmes",
+				"Skiff femmes"
+			],
+			"answer": "Skiff femmes",
+			"anecdote": "Les qualifications se sont effectuées lors des championnats du monde des deux années précédant la compétition."
+		}
+	]
+}

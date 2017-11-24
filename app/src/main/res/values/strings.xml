@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">OQuizz</string>
+    <string name="hellow">HelloWorld</string>
+    <string name="next">Next</string>
+    <string name="score">score</string>
+    <string name="restart">Restart</string>
+    <string name="title_activity_game_end">GameEndActivity</string>
+    <string name="game_ended">Game ended</string>
+    <string name="score_share">OQuizz %1$10s Super Score : %2$d points !!!</string>
+    <string name="score_user">Congratulations %1$10s your score is %2$d points</string>
+    <string name="score_null">Hoo sorry %1$10s you loose, try again!</string>
+    <string name="pseudo">Pseudo</string>
+    <string name="app_welcome">Welcome on OQuizz</string>
+    <string name="share">Share</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="start">Start</string>
+    <string name="quit">Quit</string>
+    <string name="loading">Loading questions...</string>
+    <string name="username">Username</string>
+    <string name="highscores">Highscores</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="noscore">No best score</string>
+    <string name="bestScore">Best score %1$4d</string>
+</resources>

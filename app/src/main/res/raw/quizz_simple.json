@@ -1,0 +1,123 @@
+{
+	"questions": [{
+			"id": 1,
+			"question": "Lequel de ces quartiers de la ville de Rio de Janeiro ne faisait pas partie des quartiers olympiques ?",
+			"options": [
+				"Brasilia",
+				"Barra",
+				"Copacabana",
+				"Deodoro"
+			],
+			"answer": "Brasilia",
+			"anecdote": "Brasilia est la capitale de la République fédérative du Brésil et le siège du gouvernement du District fédéral."
+		},
+		{
+			"id": 2,
+			"question": "Pour quel pays David Rudisha a-t-il essayé de conserver sa médaille d'or sur 800m à Rio ?",
+			"options": [
+				"La France",
+				"Les Fidji",
+				"L'Australie",
+				"Le Kenya"
+			],
+			"answer": "Le Kenya",
+			"anecdote": "Sixième d'une famille de sept enfants, David Rudisha est le fils de Daniel Rudisha, ancien athlète de haut niveau."
+		},
+		{
+			"id": 3,
+			"question": "Quel était le nom de la mascotte des Jeux olympiques d'été de 2016 ?",
+			"options": [
+				"Blaze",
+				"Smiley",
+				"Vinicius",
+				"Youppi"
+			],
+			"answer": "Vinicius",
+			"anecdote": "Depuis les Jeux d'hiver de 1968, chaque édition des Jeux (été et hiver) possède une mascotte officielle."
+		},
+		{
+			"id": 4,
+			"question": "Après les JO de 2016, aux mains de quelle ville la flamme olympique a-t-elle été remise ?",
+			"options": [
+				"Lima",
+				"Copenhague",
+				"Mexico",
+				"Tokyo"
+			],
+			"answer": "Tokyo",
+			"anecdote": "Le logo de la candidature japonaise représente des fleurs de cerisier, fleur symbole de Tokyo, disposées en cercle."
+		},
+		{
+			"id": 5,
+			"question": "Dans quel sport Usain Bolt a-t-il tenté la passe de trois pour l'or olympique à Rio en 2016 ?",
+			"options": [
+				"Le cyclisme",
+				"La boxe",
+				"Le triathlon",
+				"L'athlétisme"
+			],
+			"answer": "L'athlétisme",
+			"anecdote": "Son nom et ses performances en sprint ont valu à Usain Bolt le surnom de « Lightning Bolt », « l'Éclair »."
+		},
+		{
+			"id": 6,
+			"question": "Quel pays a été suspendu de toutes les disciplines d'athlétisme aux JO de 2016 ?",
+			"options": [
+				"Haïti",
+				"Le Canada",
+				"La Russie",
+				"L'Autriche"
+			],
+			"answer": "La Russie",
+			"anecdote": "Suite à des accusations de dopage, l'Agence mondiale antidopage appela à l'exclusion de la Russie des Jeux olympiques."
+		},
+		{
+			"id": 7,
+			"question": "Quelle numérotation romaine désigne les Jeux olympiques d'été de Rio de 2016 ?",
+			"options": [
+				"XVIII",
+				"XXIV",
+				"XXXI",
+				"LX"
+			],
+			"answer": "XXXI",
+			"anecdote": "À la suite du vote, le gouverneur de Tokyo Shintaro Ishihara a dénoncé la « logique invisible à l'uvre pour l'attribution des JO »."
+		},
+		{
+			"id": 8,
+			"question": "Quelle est la langue officielle du pays hôte des Jeux olympiques d'été de 2016 ?",
+			"options": [
+				"L'allemand",
+				"Le portugais",
+				"L'espagnol",
+				"Le français"
+			],
+			"answer": "Le portugais",
+			"anecdote": "Cette langue est parlée par une très grande majorité de la population et est utilisée dans les documents administratifs."
+		},
+		{
+			"id": 9,
+			"question": "Quel pays a été le dernier à entrer durant la parade des nations de Jeux olympiques de 2016 ?",
+			"options": [
+				"La Suisse",
+				"La Grèce",
+				"Le Sénégal",
+				"Le Brésil"
+			],
+			"answer": "Le Brésil",
+			"anecdote": "45 chefs dÉtat et de gouvernement ont assisté à la cérémonie d'ouverture ainsi que 55 ministres des Sports du monde entier."
+		},
+		{
+			"id": 10,
+			"question": "Quelle était la devise des Jeux olympiques d'été de 2016 qui eurent lieu à Rio ?",
+			"options": [
+				"Fais face",
+				"Cours toujours",
+				"Samba pour tous",
+				"Vis ta passion"
+			],
+			"answer": "Vis ta passion",
+			"anecdote": "Le lieu de la compétition a été choisi le 2 octobre 2009 et annoncé officiellement par Jacques Rogge."
+		}
+	]
+}
